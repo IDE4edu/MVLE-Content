@@ -1,6 +1,8 @@
-MVLE-Support
+MVLE-Content
 ====
 
-Support files for the light weight (Mini) version of the Virtual Learning Environment.
+Content files for the light weight (Mini) version of the Virtual Learning Environment.
 
-Currently includes some reference files from the original VLE, and a sample multiple choice question file.
+Contains a sample multiple choice question file.
+
+Also, currently includes some reference files from the original VLE for the purpose of development. 
